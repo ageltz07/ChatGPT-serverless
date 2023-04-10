@@ -43,10 +43,9 @@
 <!-- System Design -->
 ## Design
 <p align="center">
-  <img src="https://github.com/ageltz07/ChatGPT-serverless/blob/main/Design.drawio.png"/>
+  <img src="https://github.com/ageltz07/ChatGPT-serverless/blob/main/Serverless_Design.png"/>
 </p>
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,12 +73,8 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 [product-screenshot]: images/screenshot.png
 [python-shield]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [python-url]: https://www.python.org/
-[flask-shield]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
-[flask-url]: https://flask.palletsprojects.com/en/2.2.x/
 [Visual Studio Code-shield]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [Visual Studio Code-url]: https://visualstudio.microsoft.com/
-[Heroku-shield]: https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white
-[Heroku-url]: https://id.heroku.com/login
 [AWS-shield]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
 [AWS-url]: https://aws.amazon.com/
 [Git-shield]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
